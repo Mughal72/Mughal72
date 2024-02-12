@@ -8,11 +8,7 @@
 - 🔭 I’m currently working on [coin-bounce A crypto-centric blog built with the MERN stack.](https://github.com/Mughal72/coin-bounce.git)
 
 - 🌱 I’m currently learning **Reactjs , Mern Stack**
-
-- 👯 I’m looking to collaborate on [coin-bounce A crypto-centric blog built with the MERN stack.](https://github.com/Mughal72/coin-bounce.git)
-
-- 🤝 I’m looking for help with **Web Development**
-
+  
 - 👨‍💻 All of my projects are available at [https://anbersattarportfolio.netlify.app/](https://anbersattarportfolio.netlify.app/)
 
 - 💬 Ask me about **web development**
