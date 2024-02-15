@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mughal72" alt="mughal72" /></a> </p>
 
-- 🔭 I’m currently working on [coin-bounce A crypto-centric blog built with the MERN stack.](https://github.com/Mughal72/coin-bounce.git)
 
 - 🌱 I’m currently learning **Reactjs , Mern Stack**
   
