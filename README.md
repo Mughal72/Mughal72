@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Reactjs , Mern Stack**
   
-- 👨‍💻 All of my projects are available at [https://anbersattarportfolio.netlify.app/](https://anbersattarportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://anbersattar.vercel.app/](https://anbersattar.vercel.app/)
 
 - 💬 Ask me about **web development**
 
